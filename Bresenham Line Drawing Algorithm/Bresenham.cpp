@@ -3,7 +3,7 @@
 // header files  
 #include<stdio.h>
 #include<graphics.h>
-#include<math.h>
+#include<math.h> 
 
 int main()
 {
