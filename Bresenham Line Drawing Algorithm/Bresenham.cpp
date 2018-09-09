@@ -1,6 +1,6 @@
 // Bresenham's line algorithm 
 
-// header files 
+// header files  
 #include<stdio.h>
 #include<graphics.h>
 #include<math.h>
@@ -75,7 +75,7 @@ else if(m>1)         // m>1         // just interchange x and y
 }
 else       // m=1
 {
-    for(int i=1;i<=dx;i++)         // i<=dx or i<=dy
+    for(i=1;i<=dx;i++)         // i<=dx or i<=dy
    { putpixel(x++,y++,GREEN);       // both x and y increases 
      delay(100);
    }
