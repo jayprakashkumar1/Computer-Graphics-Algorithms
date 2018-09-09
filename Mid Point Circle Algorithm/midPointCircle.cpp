@@ -31,7 +31,7 @@ void midPointCircle(int Xc,int Yc,int r)
             p=p+2*x+1;            // next decision parameter
         }
             x++;             // Xk+1
-        
+ 
         delay(100);       // to see one by one drawing pixels 
        
     }while(x<=y);        // till first octet from top to right 
