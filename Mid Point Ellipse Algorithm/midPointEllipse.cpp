@@ -34,7 +34,7 @@ void midPointEllipse(int Xc,int Yc,int Rx,int Ry)
     {
         p=p+2*pow(Ry,2)*x+pow(Ry,2); 
     }
-    x++;     // unit interval of x
+    x++;     // unit interval of x 
 
     delay(100);      // to see drawing points 
 
