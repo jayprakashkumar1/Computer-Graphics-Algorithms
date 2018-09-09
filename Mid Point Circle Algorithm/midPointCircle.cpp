@@ -36,7 +36,6 @@ void midPointCircle(int Xc,int Yc,int r)
        
     }while(x<=y);        // till first octet from top to right 
 }
-
 int main()
 {
     int gd,gm,i;
