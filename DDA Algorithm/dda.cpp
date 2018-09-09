@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<graphics.h> // for graphics 
 #include<stdlib.h>   // for exit
-#include<math.h>     // for mathematical functions
+#include<math.h>     // for mathematical functions 
 
 int round(float x)
 {
