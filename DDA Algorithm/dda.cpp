@@ -35,6 +35,7 @@ int main()
 // X increment y increment
    float xInc=dx/step;
    float yInc=dy/step;
+    
 
 // loop untill step  
    while(i++<=step)
