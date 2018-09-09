@@ -32,7 +32,7 @@ int main()
    float m=dy/dx;
 
    float step=dx>dy?dx:dy;
-// X increment y increment
+// X increment y increment 
    float xInc=dx/step;
    float yInc=dy/step;
     
